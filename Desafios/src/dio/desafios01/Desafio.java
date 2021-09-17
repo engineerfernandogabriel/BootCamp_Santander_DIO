@@ -33,7 +33,7 @@ public class Desafio {
 
         int a = Integer.parseInt(st.nextToken());
         int b = Integer.parseInt(st.nextToken());
-        int total = a + b; // Altere o valor da variável com o cálculo esperado
+        int total = a + b;
 
         System.out.println("X = " + total);
 
