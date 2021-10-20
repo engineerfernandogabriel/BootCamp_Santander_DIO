@@ -17,7 +17,7 @@ package dio.desafios01;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Desafio03 {
+public class QuantidadeDeNumerosPositivos {
 
     public static void main(String[] args) throws IOException {
 

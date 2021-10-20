@@ -17,7 +17,7 @@ package dio.desafios01;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Desafio02 {
+public class SeisNumerosImpares {
 
     public static void main(String[] args) throws IOException {
 
