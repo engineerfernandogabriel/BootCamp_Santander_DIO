@@ -3,5 +3,3 @@
 ## Digital Innovation One
 
 ### Fullstack - Java ☕
-
-### 
